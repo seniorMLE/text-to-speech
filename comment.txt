@@ -1,0 +1,1 @@
+pls list.txt file save as UTF-8
