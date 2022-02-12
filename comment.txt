@@ -1,1 +1,4 @@
 pls list.txt file save as UTF-8
+
+waveglow model
+1WsibBTsuRg_SF2Z6L6NFRTT-NjEy1oTx
